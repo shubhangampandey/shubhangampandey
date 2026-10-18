@@ -6,18 +6,15 @@ The terminal is a visual profile, not a claim of live security scanning. -->
   <source media="(prefers-reduced-motion: reduce) and (max-width: 640px)" srcset="assets/profile/terminal-profile-mobile.png" />
   <source media="(prefers-reduced-motion: reduce)" srcset="assets/profile/terminal-profile.png" />
   <source media="(max-width: 640px)" srcset="assets/profile/terminal-profile-mobile.gif" />
-  <img src="assets/profile/terminal-profile.gif" alt="Shubhangam Pandey — software engineer and full-stack developer. An ASCII-style portrait with my technical stack, remote internship experience at UDRcraft and Prodigy InfoTech, and projects CausalScope, AgentFence, and ORBITAL. Full text is available below." width="1480" />
+  <img src="assets/profile/terminal-profile.gif" alt="Shubhangam Pandey — software engineer and full-stack developer. My face rendered entirely in ASCII characters, beside a terminal profile with my technical stack, remote internship experience at UDRcraft and Prodigy InfoTech, and projects CausalScope, AgentFence, and ORBITAL. Full text is available below." width="1480" />
 </picture>
-
-<p align="center">
-  <samp>Thoughtful interfaces. Understandable systems. Deliberate engineering.</samp>
-</p>
 
 <p align="center">
   <a href="https://github.com/shubhangampandey">GitHub ↗</a> &nbsp; / &nbsp; <a href="https://github.com/shubhangampandey/orbital-portfolio">Portfolio source ↗</a>
 </p>
 
----
+<details>
+<summary><strong>Read my profile as text</strong></summary>
 
 ### `$ cat about.md`
 
@@ -104,3 +101,5 @@ My engineering identity expressed as an explorable interface: **layered project 
   <samp>Ideas worth building start with a conversation.</samp><br />
   <a href="https://github.com/shubhangampandey">github.com/shubhangampandey</a>
 </p>
+
+</details>
