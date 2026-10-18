@@ -1,127 +1,138 @@
 <p align="center">
-  <img src="assets/profile/banner.svg" alt="Shubhangam Pandey — software engineer, full-stack development, systems thinking, and technical leadership" width="100%" />
+  <img src="assets/profile/banner.svg" alt="Shubhangam Pandey — software engineer and full-stack developer" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Shubhangam Pandey.</h1>
 
+<p align="center"><strong>Software engineer · Full-stack developer · Systems thinker</strong></p>
+
 <p align="center">
-  <strong>Software engineer · Full-stack developer · Systems thinker</strong><br />
-  I turn complex requirements into clear interfaces, dependable services, and inspectable systems.
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=19&amp;pause=1500&amp;color=F04459&amp;center=true&amp;vCenter=true&amp;width=780&amp;height=50&amp;lines=Full-stack+development%3BDistributed+systems+and+observability%3BSecure+AI+workflows%3BThoughtful+software.+Clear+decisions." alt="Full-stack development, distributed systems, observability, and secure AI workflows" width="780" />
 </p>
 
 <p align="center">
-  <a href="#about-me">About</a> ·
-  <a href="#professional-experience">Experience</a> ·
-  <a href="#technical-toolkit">Skills</a> ·
-  <a href="#selected-work">Selected work</a> ·
-  <a href="https://github.com/shubhangampandey?tab=repositories">Repositories</a>
+  <a href="https://github.com/shubhangampandey"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub profile" /></a>
+  <a href="https://github.com/shubhangampandey/orbital-portfolio"><img src="https://img.shields.io/badge/Portfolio%20Source-B52F4E?style=for-the-badge" alt="Portfolio source repository" /></a>
 </p>
 
-<!-- PERSONAL LINKS — add these to the Connect section when their URLs are ready:
-[Portfolio](YOUR_PORTFOLIO_URL)
-[Résumé](YOUR_RESUME_URL)
-[LinkedIn](YOUR_LINKEDIN_URL)
-[Certificates](YOUR_CERTIFICATES_URL)
-[Recommendation letter](YOUR_RECOMMENDATION_LETTER_URL)
-[Email](mailto:YOUR_EMAIL)
-These placeholders are intentionally hidden from the rendered profile.
--->
+<!-- Add your real LinkedIn, email, live portfolio, resume, certificate, and recommendation-letter URLs here when ready. No unfilled links are displayed. -->
 
 ## About me
 
-I'm a software developer with experience in **technical leadership, full-stack development, cloud deployment pipelines, and CI/CD optimization**. I enjoy working across the full path of a product: how people use it, how services communicate, how data is stored, and how changes reach production.
+I build software from the **interface to the infrastructure**—bringing together clear user experiences, dependable backend services, and thoughtful system design.
 
-My work includes **distributed incident investigation** and **policy-driven security for AI agent workflows**. These projects reflect how I approach engineering: make responsibilities explicit, follow the evidence, and keep important decisions understandable.
+My experience spans **full-stack development, technical team leadership, cloud deployment pipelines, and CI/CD workflows**. My selected work explores distributed incident investigation and policy-driven security for AI agent workflows.
 
-I care about software that is useful on the surface and well reasoned underneath. Clear contracts, observable behavior, and repeatable delivery are central to the way I build.
+I care about clear responsibilities, inspectable behavior, and software that remains understandable as it grows. I enjoy connecting product details with the engineering decisions underneath them.
 
-<p align="center">
-  <img src="assets/profile/impact.svg" alt="Selected UDRcraft internship results: 4+ production modules, 40% improvement in release cycles, 45% platform performance improvement, and 30% reduction in deployment time" width="100%" />
+## Tech stack
+
+**Languages**
+
+<p>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&amp;logo=c&amp;logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&amp;logo=cplusplus&amp;logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square" alt="Java" />
+  <img src="https://img.shields.io/badge/ECMAScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="ECMAScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
 </p>
+
+**Frontend**
+
+<p>
+  <img src="https://img.shields.io/badge/React.js-149ECA?style=flat-square&amp;logo=react&amp;logoColor=white" alt="React.js" />
+  <img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-663399?style=flat-square&amp;logo=css&amp;logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&amp;logo=tailwindcss&amp;logoColor=white" alt="Tailwind CSS" />
+</p>
+
+**Backend**
+
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-111111?style=flat-square&amp;logo=express&amp;logoColor=white" alt="Express.js" />
+</p>
+
+**Databases**
+
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white" alt="MySQL" />
+</p>
+
+**DevOps & cloud**
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/CI%2FCD-6B3050?style=flat-square" alt="CI/CD" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&amp;logo=githubactions&amp;logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/AWS%20Fundamentals-232F3E?style=flat-square" alt="AWS Fundamentals" />
+</p>
+
+**System design**
+
+HLD/LLD fundamentals · Scalability · Caching · Load balancing
 
 ## Professional experience
 
 ### UDRcraft Private Limited
 
 **Technical Team Lead Intern** · Remote<br />
-**September 2025 – July 2026**
+September 2025 – July 2026
 
-- Spearheaded Agile delivery across **4+ production modules**, accelerating release cycles by **40%**.
-- Architected cloud deployment pipelines, improving system uptime to **99.9%** and platform performance by **45%**.
-- Optimized CI/CD workflows, reducing deployment time by **30%**.
+- Led Agile delivery across production modules and coordinated engineering work.
+- Worked on cloud deployment pipelines, platform reliability, and CI/CD workflow optimization.
 
 ### Prodigy InfoTech Private Limited
 
 **Software Engineer Intern** · Remote<br />
-**January 2026 – February 2026**
-
-## Technical toolkit
-
-My toolkit spans application development, infrastructure, and the system-design fundamentals that connect them.
-
-<p align="center">
-  <img src="assets/profile/toolkit.svg" alt="Programming: C, C++, Python, Java, ECMAScript, TypeScript. Frontend: React.js, Next.js, HTML5, CSS3, Tailwind CSS. Backend: FastAPI, Node.js, Express.js. DevOps: Docker, CI/CD, GitHub Actions. System design: HLD/LLD fundamentals, scalability, caching, load balancing. Cloud: AWS fundamentals. Databases: MongoDB, PostgreSQL, MySQL." width="100%" />
-</p>
-
-<details>
-<summary><strong>View the complete skill directory</strong></summary>
-
-| Domain | Technologies & concepts |
-| :--- | :--- |
-| Programming | C, C++, Python, Java, ECMAScript, TypeScript |
-| Frontend | React.js, Next.js, HTML5, CSS3, Tailwind CSS |
-| Backend | FastAPI, Node.js, Express.js |
-| DevOps | Docker, CI/CD, GitHub Actions |
-| System design | HLD/LLD fundamentals, scalability, caching, load balancing |
-| Cloud platforms | AWS fundamentals |
-| Databases | MongoDB, PostgreSQL, MySQL |
-
-</details>
+January 2026 – February 2026
 
 ## Selected work
 
 ### CausalScope · Distributed incident investigation
 
-An investigation workspace that connects **OpenTelemetry observations, service relationships, trace inspection, and anomaly signals** to help explain distributed-system failures.
+An investigation workspace connecting OpenTelemetry observations, service topology, trace inspection, and anomaly signals. It brings evidence and uncertainty into the debugging workflow so investigators can examine the reasoning behind a hypothesis.
 
-- Captures observations from **eight instrumented HTTP services** and makes them explorable through service maps, trace waterfalls, and correlated logs.
-- Combines structural analysis, MAD/EWMA/CUSUM signals, controlled fault experiments, and paired-run comparisons.
-- Keeps rankings tied to inspectable evidence and makes uncertainty explicit.
-
-**Built with:** TypeScript · React · Express · OpenTelemetry · SQLite · Prisma
+**Technologies:** TypeScript · React · Express · OpenTelemetry · SQLite · Prisma
 
 ### AgentFence · Security for AI agent workflows
 
-A deterministic control plane that places **identity, authorization, independent approval, and execution evidence** between an AI agent and its tools.
+A control plane for scoped identities, default-deny policy enforcement, payload-bound independent approval, and inspectable execution evidence. It explores how AI-driven tool use can be governed through explicit backend authorization and auditable decisions.
 
-- Enforces scoped machine identities, resource boundaries, and **default-deny OPA/Rego policies**.
-- Binds approvals to exact request payloads and rechecks authorization before execution.
-- Combines transactional idempotency, signed audit links, policy simulation, and adversarial evaluation using synthetic connectors.
-
-**Built with:** TypeScript · React · Express · PostgreSQL · Prisma · OPA/Rego
+**Technologies:** TypeScript · React · Express · PostgreSQL · Prisma · OPA/Rego
 
 ### ORBITAL · My interactive portfolio
 
-A personal portfolio that makes my work explorable through **3D project layers, labeled connections, hover-driven skill summaries, and an event-aware terminal**. Its black, white, and crimson identity combines circuit-framed portraits, binary cursor effects, and synthesized interaction audio.
+A personal showcase of my work, experience, and technical interests. Interactive project layers, contextual skill summaries, circuit-framed portraits, and synthesized feedback turn the portfolio into an explorable engineering experience.
 
-**Built with:** TypeScript · Three.js · Vite · Web Audio API · CSS<br />
-**[Explore the portfolio repository →](https://github.com/shubhangampandey/orbital-portfolio)**
+**Technologies:** TypeScript · Three.js · Vite · CSS · Web Audio API<br />
+**[View portfolio source →](https://github.com/shubhangampandey/orbital-portfolio)**
 
-## How I approach engineering
+## GitHub activity
 
-| Principle | What it means in my work |
-| :--- | :--- |
-| **Clarity before complexity** | Define responsibilities, interfaces, and constraints before expanding a system. |
-| **Evidence over assumptions** | Use traces, tests, and inspectable outcomes to understand behavior. |
-| **Authorization at the boundary** | Make backend checks authoritative and keep sensitive operations explicit. |
-| **Delivery is part of the design** | Treat deployment pipelines and repeatable workflows as engineering concerns. |
-| **An interface should explain** | Help people understand the system, its state, and the consequences of their actions. |
+<p align="center">
+  <a href="https://github.com/shubhangampandey">
+    <img src="https://streak-stats.demolab.com/?user=shubhangampandey&amp;theme=dark&amp;hide_border=true&amp;background=0A0C11&amp;stroke=30313E&amp;ring=F04459&amp;fire=F04459&amp;currStreakNum=F0F2F5&amp;sideNums=F0F2F5&amp;currStreakLabel=F04459&amp;sideLabels=C0C6D4&amp;dates=9199AA&amp;timezone=Asia%2FKolkata" alt="Shubhangam Pandey's live GitHub contribution streak" width="680" />
+  </a>
+</p>
+
+## How I work
+
+- **Define the boundaries.** Make responsibilities, contracts, and constraints explicit.
+- **Follow the evidence.** Use traces, tests, and observable outcomes to understand behavior.
+- **Build for delivery.** Treat deployment and repeatable workflows as part of the design.
+- **Explain the system.** Help people understand its state, decisions, and consequences.
 
 ## Connect
 
-I'm interested in **software engineering, full-stack development, distributed systems, and secure AI integrations**. I value thoughtful technical conversations and collaboration on software with clear purpose and sound engineering behind it.
+I'm interested in software engineering, full-stack development, distributed systems, and secure AI integrations. I welcome thoughtful technical conversations and collaboration on software with a clear purpose.
 
-**[GitHub](https://github.com/shubhangampandey)** · **[Explore my repositories](https://github.com/shubhangampandey?tab=repositories)** · **[Portfolio source](https://github.com/shubhangampandey/orbital-portfolio)**
+**[GitHub](https://github.com/shubhangampandey)** · **[Explore my repositories](https://github.com/shubhangampandey?tab=repositories)**
 
 <p align="center">
   <img src="assets/profile/signature.svg" alt="Thoughtful software. Clear decisions. Reliable delivery. — Shubhangam Pandey" width="100%" />
