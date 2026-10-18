@@ -1,0 +1,40 @@
+{
+  "name": "Shubhangam Pandey",
+  "username": "shubhangampandey",
+  "role": "Software Engineer / Full-stack Developer",
+  "focus": "Full-stack / Systems / Security",
+  "stack": {
+    "code": ["C · C++ · Python · Java", "ECMAScript · TypeScript"],
+    "ui": ["React.js · Next.js · HTML5", "CSS3 · Tailwind CSS"],
+    "api": ["FastAPI · Node.js · Express.js"],
+    "data": ["MongoDB · PostgreSQL · MySQL"],
+    "delivery": ["Docker · CI/CD · GitHub Actions"],
+    "cloud": ["AWS Fundamentals"],
+    "design": ["HLD/LLD · Scalability", "Caching · Load balancing"]
+  },
+  "experience": [
+    {"company": "UDRcraft Private Limited", "role": "Technical Team Lead Intern", "dates": "09/2025 – 07/2026", "location": "Remote"},
+    {"company": "Prodigy InfoTech Private Limited", "role": "Software Engineer Intern", "dates": "01/2026 – 02/2026", "location": "Remote"}
+  ],
+  "projects": [
+    {"name": "CausalScope", "summary": "Distributed incident investigation"},
+    {"name": "AgentFence", "summary": "Policy-driven AI agent security"},
+    {"name": "ORBITAL", "summary": "Interactive engineering portfolio"}
+  ],
+  "links": {
+    "github": "https://github.com/shubhangampandey",
+    "portfolioSource": "https://github.com/shubhangampandey/orbital-portfolio",
+    "portfolioLive": "",
+    "email": "",
+    "linkedin": "",
+    "resume": "",
+    "certificates": "",
+    "recommendationLetter": "",
+    "leetcode": "",
+    "codeforces": "",
+    "causalscopeSource": "",
+    "causalscopeDemo": "",
+    "agentfenceSource": "",
+    "agentfenceDemo": ""
+  }
+}
