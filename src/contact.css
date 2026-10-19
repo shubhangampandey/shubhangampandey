@@ -1,0 +1,5 @@
+.contact-honeypot { display: none !important; }
+.form-submit button:disabled { opacity: .65; cursor: wait; }
+.project-link-list { display: grid; gap: 16px; margin: 24px 0; }
+.project-link-row { display: flex; flex-wrap: wrap; align-items: center; gap: 12px; padding: 16px; border: 1px solid var(--border, #263345); }
+.project-link-row strong { margin-right: auto; }

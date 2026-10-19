@@ -7,11 +7,14 @@
     "dev": "vite --host 127.0.0.1",
     "build": "tsc --noEmit && vite build",
     "preview": "vite preview --host 127.0.0.1",
+    "start": "node server/start.mjs",
+    "test:contact": "node --test tests/contact.test.mjs",
     "test": "playwright test",
     "test:dev": "playwright test --config playwright.dev.config.ts"
   },
   "dependencies": {
     "lucide": "^1.59.0",
+    "nodemailer": "^10.1.7",
     "three": "^0.186.1"
   },
   "devDependencies": {

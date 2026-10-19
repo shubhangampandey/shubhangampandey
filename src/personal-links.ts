@@ -5,9 +5,9 @@
  * Contact email is an address (without mailto:).
  */
 export const personalLinks = {
-  email: '',
+  email: 'shubhangampandey1@gmail.com',
   resume: '',
-  github: '',
+  github: 'https://github.com/shubhangampandey',
   leetcode: '',
   codeforces: '',
   linkedin: '',
@@ -15,7 +15,8 @@ export const personalLinks = {
   certificates: '',
   recommendation: '',
   projects: {
-    causalscope: {source: '', demo: ''},
-    agentfence: {source: '', demo: ''},
+    portfolio: {source: 'https://github.com/shubhangampandey/shubhangampandey', demo: 'https://shubhangampandey.vercel.app'},
+    causalscope: {source: 'https://github.com/shubhangampandey/CasualScope', demo: 'https://casualscope-shubhangam-pandeys-projects.vercel.app'},
+    agentfence: {source: 'https://github.com/shubhangampandey/AgentFence', demo: 'https://agentfence-shubhangam-pandeys-projects.vercel.app'},
   },
 };

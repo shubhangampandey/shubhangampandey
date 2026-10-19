@@ -71,9 +71,10 @@ test('audio, motion, timelines, capability views and contact actions work',async
   await page.getByLabel('01 / YOUR NAME').fill('Visitor');
   await page.getByLabel('02 / EMAIL ADDRESS').fill('visitor@example.com');
   await page.getByLabel('03 / THE MESSAGE').fill('A thoughtful project enquiry for a new collaboration.');
-  await page.getByRole('button',{name:'Copy message'}).click();
-  await expect(page.locator('.form-feedback')).toContainText('Message copied');
-  expect(await page.evaluate(()=>navigator.clipboard.readText())).toContain('A thoughtful project enquiry');
+  await page.route('**/api/contact',route=>route.fulfill({status:200,contentType:'application/json',body:JSON.stringify({ok:true})}));
+  await page.getByRole('button',{name:'Send message'}).click();
+  await expect(page.locator('.form-feedback')).toContainText('Message sent');
+  await expect(page.getByLabel('03 / THE MESSAGE')).toHaveValue('');
 });
 
 test('mobile routes stay readable with no horizontal overflow',async({page})=>{
