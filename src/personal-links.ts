@@ -6,11 +6,11 @@
  */
 export const personalLinks = {
   email: 'shubhangampandey1@gmail.com',
-  resume: '',
+  resume: 'https://drive.google.com/file/d/1ZGo7Vl7sgBAntm15lRXtWm9o7CwBcBl5/view?usp=sharing',
   github: 'https://github.com/shubhangampandey',
-  leetcode: '',
-  codeforces: '',
-  linkedin: '',
+  leetcode: 'https://leetcode.com/u/shubhangampandey/',
+  codeforces: 'https://codeforces.com/profile/shubhangampandey',
+  linkedin: 'https://www.linkedin.com/in/shubhangam-pandey/',
   blog: '',
   certificates: '',
   recommendation: '',
