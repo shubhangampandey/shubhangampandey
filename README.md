@@ -10,7 +10,7 @@ The terminal is a visual profile, not a claim of live security scanning. -->
 </picture>
 
 <p align="center">
-  <a href="https://github.com/shubhangampandey">GitHub ↗</a> &nbsp; / &nbsp; <a href="https://github.com/shubhangampandey/orbital-portfolio">Portfolio source ↗</a>
+  <a href="https://bit.ly/3Ubmnb1">Resume↗</a> &nbsp; / &nbsp; <a href="https://shubhangampandey.vercel.app/">Portfolio ↗</a>
 </p>
 
 <details>
